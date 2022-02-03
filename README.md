@@ -25,7 +25,7 @@ Item: Lamp	         Barcode:	120009	        Price: 20.50
 
 Item: Battery	       Barcode:	120010	        Price: 10.00
 
-The system should then prompt the user to enter barcodes, in the form of one entry per line. For each barcode entry, the system will search the database and locate the item’s name and price. If no match can be found, the program should display an error message. The barcode entry process should repeat until the user enters ‘F’ to finish, and then the total price should be calculated and displayed. Sample output may be:
+The system should prompt users to enter barcodes, in the form of one entry per line. For each barcode entry, the system will search the database and locate the item’s name and price. If no match can be found, the program should display an error message. The barcode entry process should repeat until the user enters ‘F’ to finish, and then the total price should be calculated and displayed. Sample output may be:
 
  (Please have a look at the 'store cashier docx' for image)
 
